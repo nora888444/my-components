@@ -1,0 +1,11 @@
+[data-room="kitchen"]{
+  color: red;
+}
+
+[data-room="bathroom"]{
+  background: purple;
+}
+
+[data-furniture="table"]:hover{
+  color: orange;
+}
